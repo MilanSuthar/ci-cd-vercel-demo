@@ -68,7 +68,7 @@ export default function Home() {
             e.target.style.backgroundColor = '#f06';
           }}
         >
-          This is to test my CI/CD
+          This is to test my CI/CD and this is after Edit
         </a>
       </div>
 
